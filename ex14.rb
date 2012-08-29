@@ -1,4 +1,4 @@
-# Prompthing and Passing
+# Prompting and Passing
 
 user = ARGV.first
 prompt = "#{user}--> "
